@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283236771370",
+    "project_id": "shark-bay-ec80f",
+    "storage_bucket": "shark-bay-ec80f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283236771370:android:4996880f4259495ac2c553",
+        "android_client_info": {
+          "package_name": "com.phone.sharkbay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283236771370-1jn4guuh0tkhq7h9u4mro4k5jggnid6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXjKZj3D65IFRSYIiL75vHmpsO8UIzhVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283236771370-1jn4guuh0tkhq7h9u4mro4k5jggnid6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
